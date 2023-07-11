@@ -1,5 +1,4 @@
 <h1 align="center">Face Recognition Attendance System
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/480px-Microsoft_logo.svg.png" alt="Logo" width="25" height="25">
   <img src="https://media.istockphoto.com/vectors/human-face-recognition-scanning-system-vector-illustration-vector-id1170702687?k=20&m=1170702687&s=612x612&w=0&h=9uLP7HloaQqmeI-S3R_SBB9kDgnq7oGWJlBsfPQlISc=" aligh="left" alt="Logo" width="25" height="25">
 </h1>
 <p align="center">
@@ -36,7 +35,6 @@
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
-* Face Detection Emotion Recognition project built during Microsoft Engage 2022 program. 
 * It is a PyQt5 application through which we can detect the name of the person in front of the camera based on my model created. 
 * Displays the name and the 'in' and 'out' time.
 * Marks the respective attendance
