@@ -135,26 +135,6 @@ In one shot learning, only one image per person is stored in the database, which
 <img src="fc.png" alt="face-recognition" width="1000"/>
 
 
-<!-- APP TUTORIAL-->
-
-## Preview of the Web Application
-
-  ### StartUp screen
-
-<img src="preview/start.png" alt="start" width="500"/>
-
-### Attendance System Screen-Face recognition result
-
-<img src="preview/s1.png" alt="attendance system" width="600"/>
-
-### Face Recognized
-
-<img src="preview/s2.png" alt="After being recognized" width="600"/>
-
-### Attendance sheet preview
-
-<img src="preview/csv file.png" alt="Attendance sheet preview" width="600"/>
-
 
 ## Future Aspects
 
